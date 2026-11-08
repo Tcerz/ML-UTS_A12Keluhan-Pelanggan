@@ -1,0 +1,10 @@
+# Dependensi notebook A12 (versi pandas dan scikit-learn mengikuti output Colab UTS)
+# Python 3.x; untuk menjalankan di luar Google Colab.
+numpy
+pandas==2.2.3
+scipy
+scikit-learn==1.6.1
+matplotlib
+seaborn
+joblib
+jupyter
