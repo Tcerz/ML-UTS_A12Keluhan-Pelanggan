@@ -1,0 +1,12 @@
+Jumlah baris data: 1,048,575 (batas baris data Excel = 1,048,575)
+
+[PERINGATAN] Jumlah baris sama/hampir sama dengan batas Excel. File kemungkinan TERPOTONG (baris sesudahnya hilang).
+  - Penyebab umum: CSV dibuka dan disimpan ulang lewat Excel. Format tanggal m/d/yyyy juga khas hasil simpan Excel.
+  - Dampak: sampel bukan acak dari populasi penuh, urutan tanggal tidak teratur, tren waktu dan proporsi kelas bisa bias.
+  - Solusi: unduh ulang CSV asli dari CFPB dan baca langsung dengan pandas (jangan lewat Excel),
+            atau unduh per tahun/produk lalu gabungkan dengan pd.concat.
+
+Rentang 'Date received': 2014-04-03 s.d. 2026-09-21 | tanggal gagal diparse: 0
+Terurut naik: False | terurut turun: False
+Tanggal 3 baris pertama : ['2025-01-12', '2025-01-12', '2025-01-12']
+Tanggal 3 baris terakhir: ['2023-08-20', '2023-08-20', '2023-08-20']

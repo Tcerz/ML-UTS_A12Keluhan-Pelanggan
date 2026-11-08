@@ -1,0 +1,6 @@
+selesai: K1: TF-IDF+struktur + Logistic Regression (33.9s)
+selesai: K2: TF-IDF+struktur + Multinomial NB (4.9s)
+selesai: K3: TF-IDF+struktur + Linear SVM (34.8s)
+selesai: K4: TF-IDF+struktur + Random Forest (34.0s)
+
+--- TABEL PERBANDINGAN (VALIDATION) ---

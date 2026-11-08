@@ -1,0 +1,4 @@
+[INFO] Kolom narasi tidak tersedia -> teks dibentuk dari ['Product', 'Sub-product', 'Issue', 'Sub-issue']
+Mode teks: structured
+
+--- LOG PEMBERSIHAN ---

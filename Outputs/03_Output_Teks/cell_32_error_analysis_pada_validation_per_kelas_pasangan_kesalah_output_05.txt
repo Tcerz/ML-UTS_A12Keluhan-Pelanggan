@@ -1,0 +1,2 @@
+
+Error rate pada kombinasi ambigu vs tidak ambigu (data latih menentukan keambiguan):

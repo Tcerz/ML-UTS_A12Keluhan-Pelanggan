@@ -1,0 +1,8 @@
+
+=== TOPIK NMF (pembanding topic modeling) ===
+Topik 0: loan, loan or, title, title loan, loan title, payday loan, payday, personal loan
+Topik 1: card, credit card, card or, credit, prepaid, prepaid card, or prepaid, card general
+Topik 2: debt, collection, debt collection, to, not, threatened, collect, to collect
+Topik 3: credit reporting, reporting, other personal, consumer, personal consumer, credit, personal, consumer reports
+Topik 4: account, checking, savings, savings account, or savings, checking or, money, an account
+Topik 5: incorrect, information, report, incorrect information, information on, your report, on, on your

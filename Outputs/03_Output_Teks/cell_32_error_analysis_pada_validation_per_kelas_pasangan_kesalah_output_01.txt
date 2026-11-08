@@ -1,0 +1,3 @@
+Jumlah salah: 18,608 dari 60,000 (31.0%)
+
+Tingkat kesalahan per kelas aktual:

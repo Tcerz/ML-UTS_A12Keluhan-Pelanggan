@@ -1,0 +1,8 @@
+=== KEPUTUSAN PERBAIKAN (P5) ===
+1. Validasi: Skema A (Stratified 5-Fold) dijadikan evaluasi utama; Skema B (group) dilaporkan sebagai stress test.
+2. Kestabilan: std F1-macro antar fold berkisar 0.0063-0.0196.
+3. Fitur terstruktur: F1-macro CV baseline 0.3237 -> K1 0.4531 (+0.1294).
+4. Ensemble terhadap model tunggal terbaik: +0.0423 F1-macro. Model yang meningkat signifikan atas baseline: ['E2: Voting soft (LR+NB)', 'E1: Voting hard (LR+NB+SVM)', 'K1: TF-IDF+struktur + Logistic Regression', 'K3: TF-IDF+struktur + Linear SVM', 'K2: TF-IDF+struktur + Multinomial NB', 'K4: TF-IDF+struktur + Random Forest'].
+5. Imbalance: strategi 'sqrt-balanced' dipilih (F1-macro tertinggi). Trade-off: lihat kolom recall kelas minoritas dan akurasi pada tabel imbalance.
+6. Model untuk tuning P7: Logistic Regression + fitur terstruktur + class_weight 'sqrt-balanced' (interpretabel, mendukung probabilitas dan bobot kelas). Model terbaik CV saat ini: E2: Voting soft (LR+NB).
+7. Tahap selanjutnya: seleksi fitur, tuning, dan error analysis (P7); evaluasi akhir pada test hanya sekali di UTS.

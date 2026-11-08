@@ -1,0 +1,37 @@
+=== KARAKTERISTIK CLUSTER ===
+Cluster 0: 68,432 pengaduan, 21 jenis masalah | kata kunci: credit reporting, reporting, reporting incorrect, information, else, someone else, belongs to, belongs
+    contoh: credit reporting or other personal consumer reports credit reporting incorrect information on your report info
+    contoh: credit reporting credit repair services or other personal consumer reports credit reporting incorrect informat
+Cluster 1: 39,793 pengaduan, 25 jenis masalah | kata kunci: reporting, reporting improper, credit reporting, report improperly, used your, report reporting, company used, your report
+    contoh: credit reporting credit repair services or other personal consumer reports credit reporting improper use of yo
+    contoh: credit reporting or other personal consumer reports credit reporting improper use of your report reporting com
+Cluster 2: 10,365 pengaduan, 533 jenis masalah | kata kunci: debt, mortgage, loan, to, debt collection, collection, or, conventional home
+    contoh: mortgage conventional home mortgage trouble during payment process
+    contoh: debt collection i do not know written notification about debt didn t receive enough information to verify debt
+Cluster 3: 34,628 pengaduan, 53 jenis masalah | kata kunci: incorrect, credit reporting, reporting, reporting incorrect, information, reports credit, other personal, consumer
+    contoh: credit reporting or other personal consumer reports credit reporting incorrect information on your report acco
+    contoh: credit reporting or other personal consumer reports credit reporting incorrect information on your report acco
+Cluster 4: 28,823 pengaduan, 21 jenis masalah | kata kunci: investigation, credit reporting, reporting, reporting problem, problem their, error, error on, not fix
+    contoh: credit reporting credit repair services or other personal consumer reports credit reporting problem with a cre
+    contoh: credit reporting or other personal consumer reports credit reporting problem with a company s investigation in
+Cluster 5: 14,194 pengaduan, 15 jenis masalah | kata kunci: reporting improper, credit reporting, reporting, don recognize, report that, inquiries, report credit, recognize
+    contoh: credit reporting credit repair services or other personal consumer reports credit reporting improper use of yo
+    contoh: credit reporting or other personal consumer reports credit reporting improper use of your report credit inquir
+Cluster 6: 6,134 pengaduan, 94 jenis masalah | kata kunci: account, checking, savings account, savings, checking account, account checking, checking or, or savings
+    contoh: checking or savings account checking account managing an account deposits and withdrawals
+    contoh: checking or savings account checking account managing an account problem using a debit or atm card
+Cluster 7: 6,715 pengaduan, 202 jenis masalah | kata kunci: card, credit card, card or, credit, charge card, purpose credit, or charge, charge
+    contoh: credit card or prepaid card general purpose credit card or charge card problem with a credit reporting company
+    contoh: credit card or prepaid card general purpose credit card or charge card problem with a purchase shown on your s
+Cluster 8: 5,238 pengaduan, 44 jenis masalah | kata kunci: debt, not, owed, attempts to, debt not, not owed, attempts, owed debt
+    contoh: debt collection i do not know attempts to collect debt not owed debt is not yours
+    contoh: debt collection other debt attempts to collect debt not owed debt is not yours
+Cluster 9: 6,184 pengaduan, 44 jenis masalah | kata kunci: credit reporting, reporting, credit, reporting problem, reports credit, investigation, reporting credit, repair services
+    contoh: credit reporting credit repair services or other personal consumer reports credit reporting problem with a cre
+    contoh: credit reporting credit repair services or other personal consumer reports credit reporting problem with a cre
+Cluster 10: 17,684 pengaduan, 25 jenis masalah | kata kunci: investigation, credit reporting, reporting, reporting problem, problem investigation, than, than days, days
+    contoh: credit reporting or other personal consumer reports credit reporting problem with a company s investigation in
+    contoh: credit reporting credit repair services or other personal consumer reports credit reporting problem with a cre
+Cluster 11: 1,810 pengaduan, 63 jenis masalah | kata kunci: money, money transfer, transfer, currency, virtual currency, virtual, currency or, or money
+    contoh: money transfer virtual currency or money service mobile or digital wallet fraud or scam
+    contoh: money transfer virtual currency or money service mobile or digital wallet unauthorized transactions or other t

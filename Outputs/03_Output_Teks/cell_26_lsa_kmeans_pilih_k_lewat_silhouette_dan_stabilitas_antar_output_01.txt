@@ -1,0 +1,2 @@
+Jenis masalah (teks) unik pada data dev: 1,140
+TF-IDF: (1140, 1990) -> SVD 50 komponen; variansi dijelaskan: 0.5902

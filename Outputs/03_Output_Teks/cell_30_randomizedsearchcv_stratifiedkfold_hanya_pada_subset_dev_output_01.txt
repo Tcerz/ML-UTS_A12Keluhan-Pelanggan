@@ -1,0 +1,1 @@
+Tuning selesai (267.5s) pada 60,000 baris

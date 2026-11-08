@@ -1,0 +1,3 @@
+
+30 fitur dengan skor chi2 tertinggi:
+['card', 'charge', 'checking', 'fees', 'general', 'incorrect', 'information', 'interest', 'managing', 'prepaid', 'purchase', 'purpose', 'repair', 'resolving', 'savings', 'services', 'shown', 'statement', 'Company_BANK OF AMERICA, NATIONAL ASSOCIATION', 'Company_Bread Financial Holdings, Inc.', 'Company_CITIBANK, N.A.', 'Company_Conduent Incorporated', 'Company_EQUIFAX, INC.', 'Company_Experian Information Solutions Inc.', 'Company_MOHELA', 'Company_Servicer under contract with Federal Student Aid', 'Company_TRANSUNION INTERMEDIATE HOLDINGS, INC.', 'Company_WELLS FARGO & COMPANY', 'Company_infrequent_sklearn', 'Tags_Older American']

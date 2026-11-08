@@ -1,0 +1,2 @@
+Teks duplikat: 1,047,090 (99.9%) | teks unik: 1,483
+Duplikasi teks WAJAR pada mode terstruktur (banyak pengaduan berjenis sama), sehingga baris tidak dibuang.

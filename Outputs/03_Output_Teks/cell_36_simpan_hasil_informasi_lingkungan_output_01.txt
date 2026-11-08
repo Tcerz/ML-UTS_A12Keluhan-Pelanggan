@@ -1,0 +1,2 @@
+Tersimpan di: /content/outputs -> ['model_final.joblib', 'p4_perbandingan_validation.csv', 'p5_cv_perbandingan.csv', 'p5_group_stress_test.csv', 'p5_imbalance.csv', 'p5_skor_tiap_fold.csv', 'uts_hasil_test.csv']
+{'python': '3.13.16', 'pandas': '2.2.3', 'numpy': '2.4.6', 'scikit-learn': '1.6.1', 'RANDOM_STATE': 42}

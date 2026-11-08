@@ -1,0 +1,3 @@
+Parameter terbaik (CV pada subset dev): {'clf__C': np.float64(0.06351054340728712), 'clf__class_weight': {'Closed with explanation': 0.6599306449336347, 'Closed with non-monetary relief': 0.8530872752570694, 'In progress': 0.8850077355545455, 'Closed with monetary relief': 4.641549917575261, 'Untimely response': 12.324720450266415}, 'prep__txt__max_features': 20000, 'prep__txt__min_df': 1, 'prep__txt__ngram_range': (1, 2), 'select__percentile': 100}
+F1-macro CV: 0.5012
+Rentang skor antar kombinasi: 0.0834

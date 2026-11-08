@@ -1,0 +1,9 @@
+Data kerja: 300,000 baris dari 1,048,573 (sampel stratified; proporsi kelas terjaga).
+
+=== INTERPRETASI TEMUAN EDA ===
+1. Distribusi label: 5 kelas; mayoritas 'Closed with explanation' (45.9%); imbalance ratio 350.2. Konsekuensi: akurasi bukan metrik tunggal (tebakan mayoritas = 0.459); gunakan F1-macro, balanced accuracy, MCC, PR-AUC.
+2. Panjang teks: median 22 kata, maks 36. Teks pendek -> TF-IDF dan n-gram (1,2) layak diuji.
+3. Kosakata teks unik: 1,483 kombinasi dari 1,048,573 baris (0.141%).
+4. Kapasitas informasi: akurasi tabel-lookup 0.576 (teks saja) -> 0.705 (semua fitur); F1-macro 0.367 -> 0.484.
+5. CATATAN: tanpa kolom narasi, teks hanya jenis masalah; atribut kategorikal menambah informasi (F1-macro tabel-lookup naik +0.117). Pengaduan dengan fitur identik tetap dapat berlabel berbeda sehingga ada batas performa alami.
+6. PERINGATAN: file terpotong di batas Excel; hasil berlaku untuk sampel ini, bukan populasi penuh CFPB.

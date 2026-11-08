@@ -1,0 +1,1 @@
+Kasus paling ambigu (selisih peluang dua kelas teratas terkecil):

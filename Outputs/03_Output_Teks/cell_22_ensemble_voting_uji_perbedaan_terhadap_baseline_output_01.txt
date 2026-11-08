@@ -1,0 +1,2 @@
+CV selesai: E1: Voting hard (LR+NB+SVM) (74.6s)
+CV selesai: E2: Voting soft (LR+NB) (47.5s)

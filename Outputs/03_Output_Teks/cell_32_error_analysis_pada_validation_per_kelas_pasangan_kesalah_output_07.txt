@@ -1,0 +1,3 @@
+Kombinasi validation yang belum pernah muncul di train: 4.3%
+
+Kasus salah dengan keyakinan tertinggi (prediksi keliru tapi 'yakin'):

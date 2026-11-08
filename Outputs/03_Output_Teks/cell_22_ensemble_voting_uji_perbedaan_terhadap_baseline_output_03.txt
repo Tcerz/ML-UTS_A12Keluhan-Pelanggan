@@ -1,0 +1,2 @@
+Catatan: fold CV tidak sepenuhnya independen, jadi p-value bersifat indikatif. Kriteria 'signifikan': selisih > 0,005 dan p < 0,05.
+Model terbaik berdasarkan CV (F1-macro mean): E2: Voting soft (LR+NB)

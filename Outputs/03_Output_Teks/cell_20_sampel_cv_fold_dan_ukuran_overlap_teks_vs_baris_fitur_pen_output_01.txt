@@ -1,0 +1,4 @@
+Data CV: 60,000 baris | Stratified 5-Fold (random_state=42)
+Baris validation yang teksnya pernah muncul di train        : 99.86%
+Baris validation yang SELURUH fiturnya identik dengan train : 86.32%
+Interpretasi: overlap teks tinggi adalah sifat data (kategori masalah terbatas). Overlap baris-fitur penuh lebih kecil bila fitur kategorikal ditambahkan; baris identik berlabel berbeda adalah derau alami yang menjadi batas performa.

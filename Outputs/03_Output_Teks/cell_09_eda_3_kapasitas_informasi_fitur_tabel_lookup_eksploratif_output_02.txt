@@ -1,0 +1,1 @@
+Cara membaca: bila akurasi/F1 naik jelas saat fitur ditambah (dan cakupan kombinasi masih tinggi), fitur tersebut membawa informasi baru. Bila cakupan turun tajam, kombinasi terlalu jarang dan model perlu generalisasi (itulah fungsi ML dibanding tabel-lookup).

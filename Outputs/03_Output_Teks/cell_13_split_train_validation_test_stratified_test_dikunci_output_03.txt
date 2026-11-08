@@ -1,0 +1,1 @@
+Variabel X_test / y_test TIDAK dipakai lagi sampai bagian UTS.

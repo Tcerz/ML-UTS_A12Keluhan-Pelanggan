@@ -1,0 +1,3 @@
+--- AUDIT STRUKTUR DATASET ---
+Jumlah baris (N): 1,048,575   |   Jumlah kolom: 15
+Kolom: ['Date received', 'Product', 'Sub-product', 'Issue', 'Sub-issue', 'Company public response', 'Company', 'State', 'ZIP code', 'Tags', 'Submitted via', 'Date sent to company', 'Company response to consumer', 'Timely response?', 'Complaint ID']

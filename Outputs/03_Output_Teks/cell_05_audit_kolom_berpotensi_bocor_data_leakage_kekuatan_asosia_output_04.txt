@@ -1,0 +1,2 @@
+
+KESIMPULAN: kolom bertanda DIKELUARKAN dihasilkan bersamaan dengan/ setelah respons perusahaan, sehingga tidak tersedia saat model dipakai untuk memprediksi. Memakainya akan membuat skor terlihat bagus tetapi tidak valid.

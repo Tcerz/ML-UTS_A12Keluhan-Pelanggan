@@ -1,0 +1,1 @@
+Data tuning: 60,000 baris | jumlah fitur total: 626 | class_weight: sqrt-balanced

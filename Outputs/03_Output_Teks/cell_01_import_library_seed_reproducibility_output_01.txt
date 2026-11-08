@@ -1,0 +1,2 @@
+Environment siap. RANDOM_STATE = 42 | Colab: True
+pandas 2.2.3 | scikit-learn 1.6.1

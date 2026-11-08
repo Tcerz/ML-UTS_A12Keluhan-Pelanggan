@@ -1,0 +1,6 @@
+=== INTERPRETASI P6 ===
+1. k terpilih = 12; silhouette 0.160 (struktur cluster lemah); ARI antar seed 0.756 (cukup stabil).
+2. Variansi yang dijelaskan 50 komponen LSA: 0.590.
+3. Kaitan cluster-target (NMI) = 0.047: cluster jenis masalah belum menjelaskan hasil penanganan secara kuat.
+4. Gunakan kata kunci dan contoh teks di atas untuk menamai tema cluster; jangan menyimpulkan tema mendalam tanpa memeriksa contohnya.
+5. Representasi lanjutan (word embeddings) tidak dipakai karena proyek dibatasi pada classical ML; LSA dan NMF menjadi representasi laten.

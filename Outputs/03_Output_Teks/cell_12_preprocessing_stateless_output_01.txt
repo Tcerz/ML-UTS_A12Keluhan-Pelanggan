@@ -1,0 +1,12 @@
+Dokumen kosong setelah cleaning dibuang: 0 | jumlah akhir: 300,000
+
+--- SEBELUM & SESUDAH ---
+SEBELUM: Credit reporting or other personal consumer reports Credit reporting Improper use of your report Credit inquiries on your report that you don't recognize
+SESUDAH: credit reporting or other personal consumer reports credit reporting improper use of your report credit inquiries on your report that you don t recognize
+------------------------------------------------------------
+SEBELUM: Credit reporting, credit repair services, or other personal consumer reports Credit reporting Problem with a credit reporting company's investigation into an ex
+SESUDAH: credit reporting credit repair services or other personal consumer reports credit reporting problem with a credit reporting company s investigation into an exis
+------------------------------------------------------------
+SEBELUM: Credit reporting, credit repair services, or other personal consumer reports Credit reporting Incorrect information on your report Information belongs to someon
+SESUDAH: credit reporting credit repair services or other personal consumer reports credit reporting incorrect information on your report information belongs to someone 
+------------------------------------------------------------

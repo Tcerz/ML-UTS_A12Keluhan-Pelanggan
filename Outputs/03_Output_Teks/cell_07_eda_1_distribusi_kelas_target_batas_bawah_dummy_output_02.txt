@@ -1,0 +1,5 @@
+Kelas mayoritas : Closed with explanation (481,535 dok, 45.9%)
+Kelas minoritas : Untimely response (1,375 dok, 0.13%)
+Imbalance ratio : 350.21  -> imbalance berat
+Tebakan 'selalu Closed with explanation': akurasi 0.4592, F1-macro 0.1259
+Akurasi saja menyesatkan pada data ini; gunakan F1-macro, balanced accuracy, MCC, dan PR-AUC.

@@ -1,0 +1,7 @@
+=== TEMUAN AWAL P4 (otomatis dari angka validation) ===
+1. Model dengan F1-macro tertinggi: K1: TF-IDF+struktur + Logistic Regression (0.4866); selisih terhadap baseline +0.1624.
+2. Metrik paling informatif: F1-macro, balanced accuracy, dan MCC. Akurasi hanya 0.570-0.714 antar model, sedangkan F1-macro berkisar 0.324-0.487 dan menunjukkan perbedaan kemampuan pada kelas kecil.
+3. Efek fitur terstruktur (K1 vs baseline, model sama): F1-macro +0.1624, akurasi +0.1398.
+4. Kelas minoritas 'Untimely response': recall baseline 0.000 vs K1: TF-IDF+struktur + Logistic Regression 0.090.
+5. Biaya komputasi: tercepat K2: TF-IDF+struktur + Multinomial NB (4.9s), terlambat K3: TF-IDF+struktur + Linear SVM (34.8s).
+Catatan: pemilihan akhir TIDAK memakai angka ini saja; model dipilih berdasarkan cross-validation di P5.

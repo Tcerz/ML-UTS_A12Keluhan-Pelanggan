@@ -1,0 +1,7 @@
+CV selesai: Baseline: TF-IDF(teks) + Logistic Regression (25.0s)
+CV selesai: K1: TF-IDF+struktur + Logistic Regression (40.7s)
+CV selesai: K2: TF-IDF+struktur + Multinomial NB (7.6s)
+CV selesai: K3: TF-IDF+struktur + Linear SVM (25.6s)
+CV selesai: K4: TF-IDF+struktur + Random Forest (35.3s)
+
+--- SKOR TIAP FOLD ---

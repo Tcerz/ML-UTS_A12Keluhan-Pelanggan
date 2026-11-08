@@ -1,0 +1,6 @@
+=== TEMUAN AWAL P3 ===
+1. Baseline: akurasi 0.5698, F1-macro 0.3242, balanced acc 0.3539, MCC 0.3557; dummy F1-macro 0.1259.
+2. Selisih akurasi vs F1-macro = 0.2456: model condong ke kelas besar, akurasi menutupi kelemahan pada kelas kecil.
+3. Kelas dengan recall < 0,05 pada baseline: ['Closed with monetary relief', 'Untimely response'].
+4. Kelas tersulit: 'Closed with monetary relief' (recall 0.000).
+5. FOKUS PERBAIKAN: (a) tambah fitur kategorikal, (b) bandingkan kandidat model (P4), (c) tangani imbalance dan validasi stabilitas (P5).

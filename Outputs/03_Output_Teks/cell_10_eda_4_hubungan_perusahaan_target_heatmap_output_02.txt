@@ -1,0 +1,8 @@
+Selisih proporsi tertinggi-terendah antar perusahaan (poin persen) per kelas:
+ target
+Closed with explanation            64.7
+Closed with monetary relief        20.6
+Closed with non-monetary relief    37.2
+In progress                        37.9
+Untimely response                   0.3
+Jika selisih besar, perusahaan adalah fitur yang informatif (dipakai sebagai fitur kategorikal).

@@ -1,0 +1,3 @@
+Train: 180,000 | Validation: 60,000 | Test (DIKUNCI): 60,000
+
+Proporsi kelas (bukti stratifikasi):

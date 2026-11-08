@@ -1,0 +1,13 @@
+=== FITUR PALING BERPENGARUH PER KELAS ===
+Kelas 'Closed with explanation': services or, reporting credit, credit repair, repair, repair services, services, Company_Block, Inc., Company_I.C. System, Inc.
+Kelas 'Closed with monetary relief': Company_Bread Financial Holdings, Inc., Company_CREDIT ACCEPTANCE CORPORATION, Company_BANK OF AMERICA, NATIONAL ASSOCIATION, fees, Company_CITIZENS FINANCIAL GROUP, INC., or prepaid, Company_CITIBANK, N.A., prepaid
+Kelas 'Closed with non-monetary relief': Company_TRANSUNION INTERMEDIATE HOLDINGS, INC., services or, reporting credit, credit repair, repair services, repair, services, Company_EQUIFAX, INC.
+Kelas 'In progress': reporting or, Company_Experian Information Solutions Inc., with company, Company_TRANSUNION INTERMEDIATE HOLDINGS, INC., Company_EQUIFAX, INC., Company_Kriya Capital, LLC, Company_Portfolio Recovery Associates, LLC, Company_NAVY FEDERAL CREDIT UNION
+Kelas 'Untimely response': Company_Servicer under contract with Federal Student Aid, Company_infrequent_sklearn, Company_Shellpoint Partners, LLC, Company_Conduent Incorporated, Company_MOHELA, Company_Rent Recovery Solutions, Company_FinCo Services Inc DBA Current, Company_Waypoint Resource Group, LLC
+
+=== RINGKASAN P7 ===
+1. Seleksi fitur: k terbaik pada CV = 300 (F1-macro 0.5026).
+2. Tuning: F1-macro CV 0.5012; pada validation 0.5215 (+0.0001 dibanding tanpa tuning).
+3. Error analysis: error rate tertinggi pada 'Closed with non-monetary relief' (0.483).
+4. Ambiguitas: error rate pada kombinasi ambigu 0.491 vs tidak ambigu 0.259. Selama kombinasi fitur yang sama dapat berlabel berbeda, ada batas performa alami yang tidak bisa dilampaui oleh tuning.
+5. Keputusan: model final = pipeline hasil tuning (dibekukan SEBELUM test dibuka).

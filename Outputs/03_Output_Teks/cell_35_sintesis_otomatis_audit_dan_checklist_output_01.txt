@@ -1,0 +1,10 @@
+=== SINTESIS HASIL ===
+1. Test: model final F1-macro 0.5323, balanced acc 0.7013, MCC 0.5328, akurasi 0.6891.
+2. Dibanding baseline (teks saja): F1-macro +0.2046, akurasi +0.1201. Dibanding dummy: F1-macro +0.4064.
+3. Konsistensi: F1-macro validation 0.5215 vs test 0.5323 (selisih +0.0108); selisih kecil: tidak ada tanda overfit ke validation.
+4. Stress test Skema B (kombinasi masalah baru): F1-macro CV baseline 0.1435; K1 0.3202.
+5. Batas performa: pengaduan dengan fitur identik dapat berlabel berbeda; ini menetapkan plafon alami pada skor (lihat analisis ambiguitas di P7).
+6. KETERBATASAN DATA: file terpotong di batas Excel, sampel tidak acak; generalisasi ke populasi penuh CFPB belum terbukti.
+7. KETERBATASAN FITUR: tanpa kolom narasi, model hanya melihat jenis masalah dan atribut kategorikal.
+
+=== CHECKLIST AUDIT ===

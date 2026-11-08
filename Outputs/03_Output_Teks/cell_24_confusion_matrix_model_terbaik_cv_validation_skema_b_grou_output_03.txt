@@ -1,0 +1,1 @@
+Skema B memaksa model menebak kombinasi jenis masalah yang belum pernah dilihat. Penurunan skor di sini = ketergantungan model pada kategori yang sudah dikenal.

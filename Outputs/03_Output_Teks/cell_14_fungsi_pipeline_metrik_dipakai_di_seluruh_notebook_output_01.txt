@@ -1,0 +1,1 @@
+Kelas: ['Closed with explanation', 'Closed with monetary relief', 'Closed with non-monetary relief', 'In progress', 'Untimely response']

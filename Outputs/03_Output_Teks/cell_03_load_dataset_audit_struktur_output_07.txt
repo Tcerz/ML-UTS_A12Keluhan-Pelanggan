@@ -1,0 +1,12 @@
+
+--- DUPLIKASI ---
+Baris duplikat penuh : 0
+Complaint ID duplikat: 0
+
+--- KOLOM KONSTAN ---
+Tidak ada
+
+--- KOLOM YANG DIPAKAI ---
+Teks                  : ada=['Product', 'Sub-product', 'Issue', 'Sub-issue'] | tidak ada=[]
+Kategorikal           : ada=['Company', 'State', 'Submitted via', 'Tags'] | tidak ada=[]
+Dikeluarkan (bocor)   : ada=['Timely response?', 'Company public response'] | tidak ada=[]
