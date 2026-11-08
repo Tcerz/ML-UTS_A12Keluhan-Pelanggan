@@ -94,8 +94,8 @@ Distribusi antar kelas sangat tidak seimbang. Karena itu penelitian menekankan *
 
 | Metadata berkas asli UTS | Nilai |
 |---|---|
-| Tanggal unduh CSV UTS | Belum dicatat |
-| Ukuran CSV UTS (byte) | Belum dicatat |
+| Tanggal unduh CSV UTS | 17 September 2026 |
+| Ukuran CSV UTS (byte) | Ukuran asli 5GB namun saat dibuka dengan excel terjadi kompres otomatis menjadi kisaran 300MB-an |
 | SHA-256 CSV UTS | Belum dicatat |
 | Sumber CSV | CFPB Consumer Complaint Database |
 
