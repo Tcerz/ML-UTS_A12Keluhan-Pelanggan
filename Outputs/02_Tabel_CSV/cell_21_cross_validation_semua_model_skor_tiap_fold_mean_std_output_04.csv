@@ -1,0 +1,6 @@
+﻿Model,F1 macro | mean,F1 macro | std,Balanced Acc | mean,Balanced Acc | std,Accuracy | mean,Accuracy | std
+Baseline: TF-IDF(teks) + Logistic Regression,0.3237,0.0110,0.3551,0.0090,0.5724,0.0025
+K1: TF-IDF+struktur + Logistic Regression,0.4531,0.0158,0.4417,0.0095,0.7054,0.0044
+K2: TF-IDF+struktur + Multinomial NB,0.4347,0.0069,0.6022,0.0184,0.5988,0.0035
+K3: TF-IDF+struktur + Linear SVM,0.4497,0.0121,0.4383,0.0074,0.7060,0.0047
+K4: TF-IDF+struktur + Random Forest,0.4225,0.0063,0.4300,0.0041,0.7050,0.0041

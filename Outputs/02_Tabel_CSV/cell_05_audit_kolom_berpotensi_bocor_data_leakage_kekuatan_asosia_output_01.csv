@@ -1,0 +1,11 @@
+﻿Index,Kolom,Cramér's V terhadap target,Kategori unik,Peran
+0,Timely response?,0.6626,2,DIKELUARKAN (pasca-respons)
+1,Product,0.3916,15,teks
+2,Company,0.3682,1611,fitur kategorikal
+3,Issue,0.2959,85,teks
+4,Company public response,0.2730,10,DIKELUARKAN (pasca-respons)
+5,Sub-issue,0.2671,203,teks
+6,Sub-product,0.2282,56,teks
+7,Tags,0.0880,3,fitur kategorikal
+8,Submitted via,0.0730,4,fitur kategorikal
+9,State,0.0600,59,fitur kategorikal

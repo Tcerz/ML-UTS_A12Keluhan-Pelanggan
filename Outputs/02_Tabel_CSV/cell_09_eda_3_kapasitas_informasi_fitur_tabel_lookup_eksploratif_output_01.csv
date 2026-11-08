@@ -1,0 +1,6 @@
+﻿Fitur,Kombinasi unik (latih),Akurasi,F1 macro,Balanced Acc,Cakupan kombinasi di uji
+Teks saja (versi 1),1125,0.5761,0.3670,0.3801,0.9989
++ Company,14228,0.7125,0.5484,0.5147,0.9619
+"+ Company, State",34382,0.7061,0.4902,0.4704,0.8908
+"+ Company, State, Submitted via",35822,0.7064,0.4851,0.4656,0.8846
+"+ Company, State, Submitted via, Tags",38854,0.7054,0.4837,0.4643,0.8723

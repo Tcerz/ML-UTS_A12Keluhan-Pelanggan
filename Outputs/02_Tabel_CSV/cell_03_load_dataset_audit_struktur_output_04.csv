@@ -1,0 +1,2 @@
+﻿Index,Date received,Product,Sub-product,Issue,Sub-issue,Company public response,Company,State,ZIP code,Tags,Submitted via,Date sent to company,Company response to consumer,Timely response?,Complaint ID
+dtype,object,object,object,object,object,object,object,object,object,object,object,object,object,object,int64

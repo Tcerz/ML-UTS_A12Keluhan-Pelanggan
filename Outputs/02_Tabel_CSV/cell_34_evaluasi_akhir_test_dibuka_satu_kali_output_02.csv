@@ -1,0 +1,4 @@
+﻿Index,Model,Accuracy,Balanced Acc,Precision (macro),Recall (macro),F1 (macro),F1 (weighted),MCC,PR-AUC (macro),Waktu latih (s)
+0,Dummy (kelas mayoritas),0.4592,0.2000,0.0918,0.2000,0.1259,0.2890,0.0000,0.2000,NaN
+1,Baseline: TF-IDF(teks) + Logistic Regression,0.5690,0.3554,0.4455,0.3554,0.3277,0.5326,0.3534,0.4090,NaN
+2,MODEL FINAL (tuned),0.6891,0.7013,0.5087,0.7013,0.5323,0.6881,0.5328,0.5765,46.2246

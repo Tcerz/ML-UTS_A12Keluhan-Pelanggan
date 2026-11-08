@@ -1,0 +1,4 @@
+﻿Index,Strategi,F1 macro (mean),F1 macro (std),Balanced Acc,Accuracy,Recall 'Untimely response'
+0,tanpa bobot,0.4531,0.0158,0.4417,0.7054,0.0125
+1,balanced,0.4591,0.0062,0.6993,0.6288,0.5933
+2,sqrt-balanced,0.4994,0.0103,0.5907,0.6856,0.2517

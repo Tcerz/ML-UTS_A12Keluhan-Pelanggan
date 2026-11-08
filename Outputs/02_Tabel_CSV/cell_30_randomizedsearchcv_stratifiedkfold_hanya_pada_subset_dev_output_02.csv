@@ -1,0 +1,9 @@
+﻿Index,params,mean_test_score,std_test_score,rank_test_score
+9,"{'clf__C': 0.06351054340728712, 'clf__class_weight': {'Closed with explanation': 0.6599306449336...",0.5012,0.0160,1
+6,"{'clf__C': 0.049464081829378406, 'clf__class_weight': {'Closed with explanation': 0.659930644933...",0.4953,0.0061,2
+2,"{'clf__C': 10.275417738969418, 'clf__class_weight': {'Closed with explanation': 0.65993064493363...",0.4921,0.0084,3
+5,"{'clf__C': 0.01452988474687315, 'clf__class_weight': {'Closed with explanation': 0.6599306449336...",0.4798,0.0054,4
+8,"{'clf__C': 22.783459357466153, 'clf__class_weight': 'balanced', 'prep__txt__max_features': 8000,...",0.4582,0.0061,5
+1,"{'clf__C': 1.1893792844615376, 'clf__class_weight': 'balanced', 'prep__txt__max_features': 20000...",0.4575,0.0058,6
+7,"{'clf__C': 2.3201272353300353, 'clf__class_weight': None, 'prep__txt__max_features': 20000, 'pre...",0.4529,0.0068,7
+11,"{'clf__C': 0.0528491949013312, 'clf__class_weight': 'balanced', 'prep__txt__max_features': 3000,...",0.4451,0.0025,8

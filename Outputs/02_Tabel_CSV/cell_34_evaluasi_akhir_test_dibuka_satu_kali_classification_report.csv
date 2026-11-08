@@ -1,0 +1,9 @@
+﻿kelas,precision,recall,f1-score,support
+Closed with explanation,0.70,0.70,0.70,27554
+Closed with monetary relief,0.24,0.72,0.36,557
+Closed with non-monetary relief,0.81,0.51,0.63,16489
+In progress,0.66,0.86,0.74,15322
+Untimely response,0.14,0.72,0.23,78
+accuracy,,,0.69,60000
+macro avg,0.51,0.70,0.53,60000
+weighted avg,0.71,0.69,0.69,60000

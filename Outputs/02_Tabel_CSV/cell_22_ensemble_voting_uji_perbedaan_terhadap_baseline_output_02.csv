@@ -1,0 +1,8 @@
+﻿Index,Model,F1 macro (mean),F1 macro (std),Selisih vs baseline,p-value (paired t),Peningkatan signifikan?
+0,E2: Voting soft (LR+NB),0.4954,0.0196,0.1716,0.0000,ya
+1,E1: Voting hard (LR+NB+SVM),0.4617,0.0119,0.1380,0.0000,ya
+2,K1: TF-IDF+struktur + Logistic Regression,0.4531,0.0158,0.1294,0.0001,ya
+3,K3: TF-IDF+struktur + Linear SVM,0.4497,0.0121,0.1259,0.0000,ya
+4,K2: TF-IDF+struktur + Multinomial NB,0.4347,0.0069,0.1110,0.0000,ya
+5,K4: TF-IDF+struktur + Random Forest,0.4225,0.0063,0.0988,0.0000,ya
+6,Baseline: TF-IDF(teks) + Logistic Regression,0.3237,0.0110,0.0000,NaN,-

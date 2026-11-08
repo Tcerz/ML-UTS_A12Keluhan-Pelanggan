@@ -1,0 +1,4 @@
+﻿Index,Model,F1 macro Skema A (stratified),F1 macro Skema B (group),Std Skema B,Akurasi Skema B,Turun (B-A)
+0,Baseline: TF-IDF(teks) + Logistic Regression,0.3237,0.1435,0.0300,0.4566,-0.1802
+1,K1: TF-IDF+struktur + Logistic Regression,0.4531,0.3202,0.0929,0.5881,-0.1328
+2,K2: TF-IDF+struktur + Multinomial NB,0.4347,0.2230,0.0697,0.3672,-0.2117

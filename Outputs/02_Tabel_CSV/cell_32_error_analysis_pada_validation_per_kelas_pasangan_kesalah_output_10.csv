@@ -1,0 +1,9 @@
+﻿Index,text_clean,Company,aktual,prediksi,p_pred,margin
+155469,credit card general purpose credit card or charge card other features terms or problems problem ...,CAPITAL ONE FINANCIAL CORPORATION,Closed with monetary relief,Closed with monetary relief,0.404925,0.000101
+95619,credit card general purpose credit card or charge card other features terms or problems problem ...,CAPITAL ONE FINANCIAL CORPORATION,Closed with monetary relief,Closed with monetary relief,0.404925,0.000101
+64144,debt collection medical debt took or threatened to take negative or legal action threatened to s...,"Simpson Law Firm, P.A.",Closed with explanation,Closed with explanation,0.466515,0.000159
+133822,checking or savings account checking account managing an account deposits and withdrawals,FIFTH THIRD FINANCIAL CORPORATION,Closed with non-monetary relief,Closed with monetary relief,0.468274,0.000210
+44729,debt collection auto debt false statements or representation attempted to collect wrong amount,Experian Information Solutions Inc.,Closed with explanation,Closed with explanation,0.403637,0.000252
+117339,money transfer virtual currency or money service mobile or digital wallet fraud or scam,"Paypal Holdings, Inc",Closed with explanation,Closed with explanation,0.381997,0.000300
+280506,credit card or prepaid card general purpose credit card or charge card closing your account comp...,"CITIBANK, N.A.",Closed with non-monetary relief,Closed with monetary relief,0.455440,0.000344
+270827,credit reporting or other personal consumer reports other personal consumer report problem with ...,"Checkr, Inc",In progress,Closed with explanation,0.451908,0.000344

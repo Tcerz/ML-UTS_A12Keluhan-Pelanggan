@@ -1,0 +1,6 @@
+﻿target,count,mean,median,min,max
+Closed with explanation,92007,21.98,22.0,7,36
+Closed with monetary relief,1881,19.41,17.0,7,36
+Closed with non-monetary relief,55139,24.12,23.0,7,36
+In progress,50704,20.22,19.0,8,34
+Untimely response,269,17.91,17.0,9,33

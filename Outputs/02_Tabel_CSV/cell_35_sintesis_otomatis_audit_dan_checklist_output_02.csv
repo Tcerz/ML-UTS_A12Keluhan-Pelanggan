@@ -1,0 +1,11 @@
+﻿Index,Item audit,Terpenuhi,Keterangan
+0,Audit pemotongan data (batas Excel),Ya,terpotong
+1,Kolom pasca-respons dikeluarkan dari fitur,Ya,"Timely response?, Company public response"
+2,Split dilakukan sebelum fit TF-IDF/OHE,Ya,Pipeline + ColumnTransformer
+3,Test set dikunci hingga evaluasi akhir,Ya,dibuka sekali di CELL 34
+4,"Pemilihan model memakai validation/CV, bukan test",Ya,P4 validation; P5 dan P7 CV
+5,Validasi stratified + stress test group,Ya,5-fold A; GroupKFold B
+6,"Kestabilan dilaporkan (skor tiap fold, mean, std)",Ya,CELL 21
+7,Imbalance dianalisis (metrik + strategi),Ya,sqrt-balanced
+8,Seed tetap (reproducible),Ya,RANDOM_STATE=42
+9,Sampel kerja,Ya,"300,000 dari 1,048,573 baris"
