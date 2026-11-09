@@ -131,6 +131,5 @@ Notebook menggunakan `pandas`, `numpy`, `scipy`, `scikit-learn`, `matplotlib`, `
 
 - **Sumber dataset:** CFPB Consumer Complaint Database — https://www.consumerfinance.gov/data-research/consumer-complaints/
 - **Dokumentasi dataset:** [`Dataset/README.md`](Dataset/README.md)
-- **Notebook dan laporan:** artefak akademik Kelompok A12, Universitas Mikroskil, untuk Milestone 1 UTS Pembelajaran Mesin.
 
 Jika menggunakan atau mendistribusikan ulang data, periksa ketentuan sumber resmi CFPB dan jangan memasukkan informasi pribadi konsumen yang tidak diperlukan ke repository publik.
