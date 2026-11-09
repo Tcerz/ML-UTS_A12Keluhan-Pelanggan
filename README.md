@@ -1,11 +1,10 @@
 # Prediksi Respons Perusahaan terhadap Pengaduan Konsumen CFPB
 
 **Project ID:** A12  
-**Kelompok:** Keluhan Pelanggan
-
+**Kelompok:** Keluhan Pelanggan    
 **Mata kuliah:** Pembelajaran Mesin  
-**Tahap:** Milestone 1 — Ujian Tengah Semester (UTS), proyek Text Mining  
-**Perguruan tinggi:** Universitas Mikroskil — S-1 Teknik Informatika
+**Tahap:** Milestone 1 - Ujian Tengah Semester (UTS), proyek Text Mining  
+**Perguruan tinggi:** Universitas Mikroskil - S-1 Teknik Informatika
 
 ## Anggota Kelompok
 
@@ -49,7 +48,6 @@ ML-UTS_A12Keluhan-Pelanggan/
 ├── README.md                       # Penjelasan proyek dan cara penggunaan
 ├── A12 Keluhan Pelanggan.ipynb     # Notebook eksperimen utama
 ├── requirements.txt                # Dependensi untuk menjalankan notebook
-├── .gitignore                      # Mencegah dataset besar / berkas sementara ikut ter-commit
 ├── Dataset/
 │   ├── Link Dataset.txt            # Tautan sumber resmi CFPB (sudah ada)
 │   └── README.md                   # Dokumentasi dan cara memperoleh dataset
