@@ -1,7 +1,7 @@
 # Prediksi Respons Perusahaan terhadap Pengaduan Konsumen CFPB
 
 **Project ID:** A12  
-**Kelompok:** Keluhan Pelanggan 
+**Kelompok:** Keluhan Pelanggan
 **Mata kuliah:** Pembelajaran Mesin  
 **Tahap:** Milestone 1 — Ujian Tengah Semester (UTS), proyek Text Mining  
 **Perguruan tinggi:** Universitas Mikroskil — S-1 Teknik Informatika
